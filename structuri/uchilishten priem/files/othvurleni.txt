@@ -1,0 +1,16 @@
+                         Kandidatstvane 2019 - OTHVURLENI
+
+Student: Samanta Ivanova Hristova 
+  -Incoming number: 4987487894
+  -BEL's note from the diploma: 4
+  -Math's note from the diploma: 4
+  -BEL's note from the test: 3.44
+  -Math's note from the test: 3.56
+
+Student: Petja Trendafilova Zlatarska 
+  -Incoming number: 4787396294
+  -BEL's note from the diploma: 0
+  -Math's note from the diploma: 0
+  -BEL's note from the test: 0
+  -Math's note from the test: 0
+
