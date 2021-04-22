@@ -1,0 +1,13 @@
+C:\Users\Asus\Desktop\C++\cp-algorithms\Data Structures\02. Trees\04. Segment Tree\09. Codeforces - Circular RMQ\09. Codeforces - Circular RMQ\bin\Debug\netcoreapp3.1\09. Codeforces - Circular RMQ.exe
+C:\Users\Asus\Desktop\C++\cp-algorithms\Data Structures\02. Trees\04. Segment Tree\09. Codeforces - Circular RMQ\09. Codeforces - Circular RMQ\bin\Debug\netcoreapp3.1\09. Codeforces - Circular RMQ.deps.json
+C:\Users\Asus\Desktop\C++\cp-algorithms\Data Structures\02. Trees\04. Segment Tree\09. Codeforces - Circular RMQ\09. Codeforces - Circular RMQ\bin\Debug\netcoreapp3.1\09. Codeforces - Circular RMQ.runtimeconfig.json
+C:\Users\Asus\Desktop\C++\cp-algorithms\Data Structures\02. Trees\04. Segment Tree\09. Codeforces - Circular RMQ\09. Codeforces - Circular RMQ\bin\Debug\netcoreapp3.1\09. Codeforces - Circular RMQ.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\C++\cp-algorithms\Data Structures\02. Trees\04. Segment Tree\09. Codeforces - Circular RMQ\09. Codeforces - Circular RMQ\bin\Debug\netcoreapp3.1\09. Codeforces - Circular RMQ.dll
+C:\Users\Asus\Desktop\C++\cp-algorithms\Data Structures\02. Trees\04. Segment Tree\09. Codeforces - Circular RMQ\09. Codeforces - Circular RMQ\bin\Debug\netcoreapp3.1\09. Codeforces - Circular RMQ.pdb
+C:\Users\Asus\Desktop\C++\cp-algorithms\Data Structures\02. Trees\04. Segment Tree\09. Codeforces - Circular RMQ\09. Codeforces - Circular RMQ\obj\Debug\netcoreapp3.1\09. Codeforces - Circular RMQ.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\C++\cp-algorithms\Data Structures\02. Trees\04. Segment Tree\09. Codeforces - Circular RMQ\09. Codeforces - Circular RMQ\obj\Debug\netcoreapp3.1\09. Codeforces - Circular RMQ.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\C++\cp-algorithms\Data Structures\02. Trees\04. Segment Tree\09. Codeforces - Circular RMQ\09. Codeforces - Circular RMQ\obj\Debug\netcoreapp3.1\09. Codeforces - Circular RMQ.AssemblyInfo.cs
+C:\Users\Asus\Desktop\C++\cp-algorithms\Data Structures\02. Trees\04. Segment Tree\09. Codeforces - Circular RMQ\09. Codeforces - Circular RMQ\obj\Debug\netcoreapp3.1\09. Codeforces - Circular RMQ.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C++\cp-algorithms\Data Structures\02. Trees\04. Segment Tree\09. Codeforces - Circular RMQ\09. Codeforces - Circular RMQ\obj\Debug\netcoreapp3.1\09. Codeforces - Circular RMQ.dll
+C:\Users\Asus\Desktop\C++\cp-algorithms\Data Structures\02. Trees\04. Segment Tree\09. Codeforces - Circular RMQ\09. Codeforces - Circular RMQ\obj\Debug\netcoreapp3.1\09. Codeforces - Circular RMQ.pdb
+C:\Users\Asus\Desktop\C++\cp-algorithms\Data Structures\02. Trees\04. Segment Tree\09. Codeforces - Circular RMQ\09. Codeforces - Circular RMQ\obj\Debug\netcoreapp3.1\09. Codeforces - Circular RMQ.genruntimeconfig.cache

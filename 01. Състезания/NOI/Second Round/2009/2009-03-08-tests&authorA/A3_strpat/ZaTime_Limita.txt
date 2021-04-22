@@ -1,0 +1,21 @@
+Imam 2 reshenia - iterativno (strpath.cpp) i rekursivno (strpath_re.cpp).
+Vremenata im pri men za otdelnite testove sa:
+
+    strpath.cpp   strpath_r.cpp
+T0:     0,02           0.02
+T1:     0,02           0.02
+T2:     0,02           0.02
+T3:     0,01           0.01
+T4:     0,17           0.36
+T5:     0,10           0.30
+T6:     0,02           0.02
+T7:     0,02           0.25
+T8:     0,02           0.02
+T9:     0,06           0.14
+T10:    0,14           0.34
+
+AKo testvah na moya komp time-limita shteshe da e 0,20-0,25. 
+T.e. pri rekursia napisana ne po-zle ot 
+ot moyata da se vzemat 60-70 tochki.
+Kr. Manev 
+ 
